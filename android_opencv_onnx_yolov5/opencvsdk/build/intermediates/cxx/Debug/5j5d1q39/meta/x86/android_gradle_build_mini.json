@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "D:\\work\\work_space_idea\\android-tool\\camera_opencv\\opencvsdk\\libcxx_helper\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\work\\android_sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\work\\work_space_idea\\android-tool\\camera_opencv\\opencvsdk\\.cxx\\Debug\\5j5d1q39\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\work\\android_sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\work\\work_space_idea\\android-tool\\camera_opencv\\opencvsdk\\.cxx\\Debug\\5j5d1q39\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared::@6890427a1f51a3e7e1df": {
+      "artifactName": "opencv_jni_shared",
+      "abi": "x86",
+      "output": "D:\\work\\work_space_idea\\android-tool\\camera_opencv\\opencvsdk\\.cxx\\Debug\\5j5d1q39\\x86\\libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}

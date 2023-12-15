@@ -1,0 +1,1 @@
+C:\Users\tyf\Desktop\android_opencv_onnx_scrfd_face_landmark\opencvsdk\build\intermediates\cxx\Debug\4d1z5p11\obj\arm64-v8a

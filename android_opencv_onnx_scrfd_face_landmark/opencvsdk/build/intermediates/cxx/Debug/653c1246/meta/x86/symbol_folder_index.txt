@@ -1,0 +1,1 @@
+C:\work\workspace\android-tool\camera_opencv\opencvsdk\build\intermediates\cxx\Debug\653c1246\obj\x86

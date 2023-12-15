@@ -1,0 +1,170 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: x86",
+    "file_": "C:\\work\\workspace\\deeplearn-mobile\\android_opencv_onnx_yolov5_face_landmark\\opencvsdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1844403464
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\work\\workspace\\deeplearn-mobile\\android_opencv_onnx_yolov5_face_landmark\\opencvsdk\\.cxx\\Debug\\2g4v181p\\x86\\android_gradle_build.json due to:",
+    "file_": "C:\\work\\workspace\\deeplearn-mobile\\android_opencv_onnx_yolov5_face_landmark\\opencvsdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 713478079
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json C:\\work\\workspace\\deeplearn-mobile\\android_opencv_onnx_yolov5_face_landmark\\opencvsdk\\.cxx\\Debug\\2g4v181p\\x86\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "C:\\work\\workspace\\deeplearn-mobile\\android_opencv_onnx_yolov5_face_landmark\\opencvsdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1194229639
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file C:\\work\\workspace\\deeplearn-mobile\\android_opencv_onnx_yolov5_face_landmark\\opencvsdk\\.cxx\\Debug\\2g4v181p\\x86\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "C:\\work\\workspace\\deeplearn-mobile\\android_opencv_onnx_yolov5_face_landmark\\opencvsdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -88404073
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "C:\\work\\workspace\\deeplearn-mobile\\android_opencv_onnx_yolov5_face_landmark\\opencvsdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 616726164
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\work\\workspace\\deeplearn-mobile\\android_opencv_onnx_yolov5_face_landmark\\opencvsdk\\.cxx\\Debug\\2g4v181p\\x86\u0027",
+    "file_": "C:\\work\\workspace\\deeplearn-mobile\\android_opencv_onnx_yolov5_face_landmark\\opencvsdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1120875661
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"C:\\\\software\\\\android_sdk_4onnx\\\\cmake\\\\3.18.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\work\\\\workspace\\\\deeplearn-mobile\\\\android_opencv_onnx_yolov5_face_landmark\\\\opencvsdk\\\\libcxx_helper\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d21\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-21\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dC:\\\\software\\\\android_sdk_4onnx\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\software\\\\android_sdk_4onnx\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\software\\\\android_sdk_4onnx\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\software\\\\android_sdk_4onnx\\\\cmake\\\\3.18.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\work\\\\workspace\\\\deeplearn-mobile\\\\android_opencv_onnx_yolov5_face_landmark\\\\opencvsdk\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\2g4v181p\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\work\\\\workspace\\\\deeplearn-mobile\\\\android_opencv_onnx_yolov5_face_landmark\\\\opencvsdk\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\2g4v181p\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\work\\\\workspace\\\\deeplearn-mobile\\\\android_opencv_onnx_yolov5_face_landmark\\\\opencvsdk\\\\.cxx\\\\Debug\\\\2g4v181p\\\\x86\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\"\n",
+    "file_": "C:\\work\\workspace\\deeplearn-mobile\\android_opencv_onnx_yolov5_face_landmark\\opencvsdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 129387165
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\software\\\\android_sdk_4onnx\\\\cmake\\\\3.18.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\work\\\\workspace\\\\deeplearn-mobile\\\\android_opencv_onnx_yolov5_face_landmark\\\\opencvsdk\\\\libcxx_helper\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d21\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-21\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dC:\\\\software\\\\android_sdk_4onnx\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\software\\\\android_sdk_4onnx\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\software\\\\android_sdk_4onnx\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\software\\\\android_sdk_4onnx\\\\cmake\\\\3.18.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\work\\\\workspace\\\\deeplearn-mobile\\\\android_opencv_onnx_yolov5_face_landmark\\\\opencvsdk\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\2g4v181p\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\work\\\\workspace\\\\deeplearn-mobile\\\\android_opencv_onnx_yolov5_face_landmark\\\\opencvsdk\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\2g4v181p\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\work\\\\workspace\\\\deeplearn-mobile\\\\android_opencv_onnx_yolov5_face_landmark\\\\opencvsdk\\\\.cxx\\\\Debug\\\\2g4v181p\\\\x86\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\"\n",
+    "file_": "C:\\work\\workspace\\deeplearn-mobile\\android_opencv_onnx_yolov5_face_landmark\\opencvsdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1369836542
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of C:\\work\\workspace\\deeplearn-mobile\\android_opencv_onnx_yolov5_face_landmark\\opencvsdk\\.cxx\\Debug\\2g4v181p\\x86\\compile_commands.json.bin normally",
+    "file_": "C:\\work\\workspace\\deeplearn-mobile\\android_opencv_onnx_yolov5_face_landmark\\opencvsdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1770794147
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "C:\\work\\workspace\\deeplearn-mobile\\android_opencv_onnx_yolov5_face_landmark\\opencvsdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 304379913
+  },
+  {
+    "level_": 0,
+    "message_": "write command file C:\\work\\workspace\\deeplearn-mobile\\android_opencv_onnx_yolov5_face_landmark\\opencvsdk\\.cxx\\Debug\\2g4v181p\\x86\\metadata_generation_command.txt",
+    "file_": "C:\\work\\workspace\\deeplearn-mobile\\android_opencv_onnx_yolov5_face_landmark\\opencvsdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1414490893
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\work\\workspace\\deeplearn-mobile\\android_opencv_onnx_yolov5_face_landmark\\opencvsdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2052514299
+  }
+]

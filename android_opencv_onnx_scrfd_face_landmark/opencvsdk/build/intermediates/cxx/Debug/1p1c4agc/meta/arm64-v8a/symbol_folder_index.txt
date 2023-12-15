@@ -1,0 +1,1 @@
+C:\Users\huawei\Desktop\camera_opencv\opencvsdk\build\intermediates\cxx\Debug\1p1c4agc\obj\arm64-v8a

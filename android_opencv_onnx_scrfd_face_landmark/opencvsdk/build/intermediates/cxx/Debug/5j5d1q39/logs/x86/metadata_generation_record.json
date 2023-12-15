@@ -1,0 +1,170 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: x86",
+    "file_": "D:\\work\\work_space_idea\\android-tool\\camera_opencv\\opencvsdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 436214296
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON D:\\work\\work_space_idea\\android-tool\\camera_opencv\\opencvsdk\\.cxx\\Debug\\5j5d1q39\\x86\\android_gradle_build.json due to:",
+    "file_": "D:\\work\\work_space_idea\\android-tool\\camera_opencv\\opencvsdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1209275151
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json D:\\work\\work_space_idea\\android-tool\\camera_opencv\\opencvsdk\\.cxx\\Debug\\5j5d1q39\\x86\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "D:\\work\\work_space_idea\\android-tool\\camera_opencv\\opencvsdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -72034943
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file D:\\work\\work_space_idea\\android-tool\\camera_opencv\\opencvsdk\\.cxx\\Debug\\5j5d1q39\\x86\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "D:\\work\\work_space_idea\\android-tool\\camera_opencv\\opencvsdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 41351807
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "D:\\work\\work_space_idea\\android-tool\\camera_opencv\\opencvsdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1397623372
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027D:\\work\\work_space_idea\\android-tool\\camera_opencv\\opencvsdk\\.cxx\\Debug\\5j5d1q39\\x86\u0027",
+    "file_": "D:\\work\\work_space_idea\\android-tool\\camera_opencv\\opencvsdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1617465039
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"D:\\\\work\\\\android_sdk\\\\cmake\\\\3.18.1\\\\bin\\\\cmake.exe\" ^\n  \"-HD:\\\\work\\\\work_space_idea\\\\android-tool\\\\camera_opencv\\\\opencvsdk\\\\libcxx_helper\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d21\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-21\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dD:\\\\work\\\\android_sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dD:\\\\work\\\\android_sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dD:\\\\work\\\\android_sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dD:\\\\work\\\\android_sdk\\\\cmake\\\\3.18.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\\\work\\\\work_space_idea\\\\android-tool\\\\camera_opencv\\\\opencvsdk\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\5j5d1q39\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dD:\\\\work\\\\work_space_idea\\\\android-tool\\\\camera_opencv\\\\opencvsdk\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\5j5d1q39\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BD:\\\\work\\\\work_space_idea\\\\android-tool\\\\camera_opencv\\\\opencvsdk\\\\.cxx\\\\Debug\\\\5j5d1q39\\\\x86\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\"\n",
+    "file_": "D:\\work\\work_space_idea\\android-tool\\camera_opencv\\opencvsdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1173367653
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"D:\\\\work\\\\android_sdk\\\\cmake\\\\3.18.1\\\\bin\\\\cmake.exe\" ^\n  \"-HD:\\\\work\\\\work_space_idea\\\\android-tool\\\\camera_opencv\\\\opencvsdk\\\\libcxx_helper\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d21\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-21\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dD:\\\\work\\\\android_sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dD:\\\\work\\\\android_sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dD:\\\\work\\\\android_sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dD:\\\\work\\\\android_sdk\\\\cmake\\\\3.18.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\\\work\\\\work_space_idea\\\\android-tool\\\\camera_opencv\\\\opencvsdk\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\5j5d1q39\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dD:\\\\work\\\\work_space_idea\\\\android-tool\\\\camera_opencv\\\\opencvsdk\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\5j5d1q39\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BD:\\\\work\\\\work_space_idea\\\\android-tool\\\\camera_opencv\\\\opencvsdk\\\\.cxx\\\\Debug\\\\5j5d1q39\\\\x86\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\"\n",
+    "file_": "D:\\work\\work_space_idea\\android-tool\\camera_opencv\\opencvsdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1327381382
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of D:\\work\\work_space_idea\\android-tool\\camera_opencv\\opencvsdk\\.cxx\\Debug\\5j5d1q39\\x86\\compile_commands.json.bin normally",
+    "file_": "D:\\work\\work_space_idea\\android-tool\\camera_opencv\\opencvsdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1177263769
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "D:\\work\\work_space_idea\\android-tool\\camera_opencv\\opencvsdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1709969623
+  },
+  {
+    "level_": 0,
+    "message_": "write command file D:\\work\\work_space_idea\\android-tool\\camera_opencv\\opencvsdk\\.cxx\\Debug\\5j5d1q39\\x86\\metadata_generation_command.txt",
+    "file_": "D:\\work\\work_space_idea\\android-tool\\camera_opencv\\opencvsdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1367539431
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "D:\\work\\work_space_idea\\android-tool\\camera_opencv\\opencvsdk\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 228103461
+  }
+]

@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\work\workspace\deeplearn-mobile\android_opencv_onnx_scrfd_face_landmark\opencvsdk\java\AndroidManifest.xml:2:1-4:12
+INJECTED from D:\work\workspace\deeplearn-mobile\android_opencv_onnx_scrfd_face_landmark\opencvsdk\java\AndroidManifest.xml:2:1-4:12
+INJECTED from D:\work\workspace\deeplearn-mobile\android_opencv_onnx_scrfd_face_landmark\opencvsdk\java\AndroidManifest.xml:2:1-4:12
+	package
+		ADDED from D:\work\workspace\deeplearn-mobile\android_opencv_onnx_scrfd_face_landmark\opencvsdk\java\AndroidManifest.xml:3:7-27
+		INJECTED from D:\work\workspace\deeplearn-mobile\android_opencv_onnx_scrfd_face_landmark\opencvsdk\java\AndroidManifest.xml
+		INJECTED from D:\work\workspace\deeplearn-mobile\android_opencv_onnx_scrfd_face_landmark\opencvsdk\java\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\work\workspace\deeplearn-mobile\android_opencv_onnx_scrfd_face_landmark\opencvsdk\java\AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from D:\work\workspace\deeplearn-mobile\android_opencv_onnx_scrfd_face_landmark\opencvsdk\java\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\work\workspace\deeplearn-mobile\android_opencv_onnx_scrfd_face_landmark\opencvsdk\java\AndroidManifest.xml
+INJECTED from D:\work\workspace\deeplearn-mobile\android_opencv_onnx_scrfd_face_landmark\opencvsdk\java\AndroidManifest.xml
+INJECTED from D:\work\workspace\deeplearn-mobile\android_opencv_onnx_scrfd_face_landmark\opencvsdk\java\AndroidManifest.xml
+INJECTED from D:\work\workspace\deeplearn-mobile\android_opencv_onnx_scrfd_face_landmark\opencvsdk\java\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\work\workspace\deeplearn-mobile\android_opencv_onnx_scrfd_face_landmark\opencvsdk\java\AndroidManifest.xml
+		ADDED from D:\work\workspace\deeplearn-mobile\android_opencv_onnx_scrfd_face_landmark\opencvsdk\java\AndroidManifest.xml
+		INJECTED from D:\work\workspace\deeplearn-mobile\android_opencv_onnx_scrfd_face_landmark\opencvsdk\java\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\work\workspace\deeplearn-mobile\android_opencv_onnx_scrfd_face_landmark\opencvsdk\java\AndroidManifest.xml
+		ADDED from D:\work\workspace\deeplearn-mobile\android_opencv_onnx_scrfd_face_landmark\opencvsdk\java\AndroidManifest.xml
+		INJECTED from D:\work\workspace\deeplearn-mobile\android_opencv_onnx_scrfd_face_landmark\opencvsdk\java\AndroidManifest.xml

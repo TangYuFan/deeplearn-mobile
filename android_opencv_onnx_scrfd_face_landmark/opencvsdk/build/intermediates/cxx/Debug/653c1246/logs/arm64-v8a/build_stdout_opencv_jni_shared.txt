@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\work\workspace\android-tool\camera_opencv\opencvsdk\.cxx\Debug\653c1246\arm64-v8a'
+ninja: no work to do.
