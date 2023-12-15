@@ -1,0 +1,1 @@
+onnx模型,使用ort推理,部署 meta-ai 分割一切模型 sam
