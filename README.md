@@ -1,6 +1,6 @@
 <div class="container">
 <div class="row">
-<h3>deeplearn-java</h3>	
+<h3>deeplearn-mobile</h3>	
 </div>
 
 <table border="1">
