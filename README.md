@@ -6,7 +6,6 @@
 <table border="1">
   <tr>
 <th><img src="img/p2.gif" width="200" height="150"></th>
-        <th><img src="img/p3.png" width="200" height="150"></th>
   </tr>
 
 </table>
