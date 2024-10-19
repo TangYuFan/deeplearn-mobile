@@ -1,15 +1,7 @@
 <div class="container">
 <div class="row">
-<h3>deeplearn-mobile</h3>	
+<h3>deeplearn-java</h3>	
 </div>
-
-<table border="1">
-  <tr>
-<th><img src="img/p2.gif" width="200" height="150"></th>
-  </tr>
-
-</table>
-  
 <div class="row">
 <div class="span4">
 <table class="table">
@@ -54,7 +46,9 @@
 <tr><td>25</td><td>android_opencv_onnx_yolov8_mozu_det</td><td>onnx模型,使用ort推理,使用opencv预处理和后处理,yolov8 模组目标检测</td></tr>
 <tr><td>26</td><td>android_opencv_onnx_yolov8_pose_ruler</td><td>onnx模型,使用ort推理,使用opencv预处理和后处理,实时yolov8三角尺检测</td></tr>
 <tr><td>27</td><td>android_opencv_onnx_yolovp2_drive</td><td>onnx模型,使用ort推理,使用opencv预处理和后处理,yolovp2 车道线、可行驶区域、目标检测</td></tr>
-<tr><td>28</td><td>img</td><td></td></tr>
+<tr><td>28</td><td>android_sherpa_onnx_ars_dmeo</td><td>onnx模型,使用sherpa-onnx框架，ARS（中文+英文）</td></tr>
+<tr><td>29</td><td>android_sherpa_onnx_tts_dmeo</td><td>onnx模型,使用sherpa-onnx框架，TTS（中文+英文）</td></tr>
+<tr><td>30</td><td>img</td><td></td></tr>
 </tbody>
 </table>
 </div>
