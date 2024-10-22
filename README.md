@@ -2,6 +2,13 @@
 <div class="row">
 <h3>deeplearn-java</h3>	
 </div>
+
+  <table border="1">
+  <tr>
+    <th><img src="img/p1.gif" width="200" height="150"></th>
+  </tr>
+</table>
+
 <div class="row">
 <div class="span4">
 <table class="table">
